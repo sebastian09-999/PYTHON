@@ -14,4 +14,4 @@ else:
 impuesto=Salario*tasa
 
 print("Resultado")
-print(f"Monto total a pagar de impuesto:${impuesto}")
+print(f"Monto total a pagar de impuesto:${impuesto:,}")
