@@ -14,4 +14,4 @@ else:
     grupo = "B"
 
 
-print(f"\nHola, {nombre.capitalize()}. Te corresponde el Grupo {grupo}.")
+print(f"\nHola, {nombre}. Te corresponde el Grupo {grupo}.")
